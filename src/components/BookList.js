@@ -11,7 +11,7 @@ class BookList extends Component {
             <ul>
                 <li style={{background: theme.ui}}>the way of kings</li>
                 <li style={{background: theme.ui}}>Lord of the Rings</li>
-                <li style={{background: theme.ui}}>the way of kings</li>
+                <li style={{background: theme.ui}}>Grapes of Wrath</li>
             </ul>
             </div>
           );
