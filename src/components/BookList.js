@@ -9,7 +9,7 @@ class BookList extends Component {
         return (
             <div className='book-list' style={{color: theme.syntax, background: theme.ui}}>
             <ul>
-                <li style={{background: theme.ui}}>the way of kings</li>
+                <li style={{background: theme.ui}}>Harry Potter</li>
                 <li style={{background: theme.ui}}>Lord of the Rings</li>
                 <li style={{background: theme.ui}}>Grapes of Wrath</li>
             </ul>
