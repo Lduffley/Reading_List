@@ -11,7 +11,7 @@ class BookList extends Component {
             <ul>
                 <li style={{background: theme.ui}}>Harry Potter</li>
                 <li style={{background: theme.ui}}>Lord of the Rings</li>
-                <li style={{background: theme.ui}}>Of Mice of Men</li>
+                <li style={{background: theme.ui}}></li>
             </ul>
             </div>
           );
