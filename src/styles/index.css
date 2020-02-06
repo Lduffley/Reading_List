@@ -73,3 +73,6 @@ body {
     padding: 6px 20px;
     display: block;
   }
+  input[type='submit']:hover{
+      background: #6495ED;
+  }
