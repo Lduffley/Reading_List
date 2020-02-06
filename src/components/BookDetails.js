@@ -6,7 +6,7 @@ const BookDetails = ({book}) => {
     return (
         <li onClick={() =>dispatch({type: 'REMOVE_Book', id: book.id})}>
             <div className="title">{book.title}</div>
-            <div className="author">{book.author}</div>
+            <div className="author">By: {book.author}</div>
         </li>
       );
 }
